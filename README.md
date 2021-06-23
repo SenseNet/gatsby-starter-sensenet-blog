@@ -5,7 +5,15 @@ This example demonstrates how to create an app with sensenet and Gatsby using se
 ## Quick start
 
 ```shell
-TODO: This will change soon
+gatsby new sensenet-starter https://github.com/SenseNet/gatsby-starter-sensenet-blog
+```
+
+Start developing.
+Navigate into your new site’s directory and start it up.
+
+```shell
+cd sensenet-starter
+gatsby develop
 ```
 
 ## Features

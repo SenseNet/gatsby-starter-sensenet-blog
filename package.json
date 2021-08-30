@@ -1,7 +1,7 @@
 {
   "name": "gatsby-strater-sensenet-blog",
   "description": "A gatsby example app created by gatsby-source-sensenet plugin",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": true,
   "author": "Sense/Net <snteam@sensenet.com> (http://sensenet.com/)",
   "keywords": [
